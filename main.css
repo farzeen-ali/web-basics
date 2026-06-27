@@ -1,0 +1,19 @@
+/* p{
+    font-size: 30px;
+    color: purple;
+} */
+
+.bg{
+    font-size: 30px;
+    color: purple;
+}
+
+#main{
+    background-color: aqua;
+}
+
+.my-first{
+    border: 2px solid black;
+    padding: 50px;
+    margin: 80px;
+}
